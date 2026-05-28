@@ -138,11 +138,11 @@ treat your identity as fixed.
 
 ---
 
-We are running this lab to find out what AI native engineering actually looks like in
-practice. Not in theory. Not in demos. In public experiments, with real outputs, recorded
-failures, and weekly reflection on what the evidence says.
+AI Native Engineering is how we find out what this craft actually looks like in practice —
+not in theory, not in demos, but in real work, in the open, with honest reflection on what
+the evidence says.
 
-If you're an engineer trying to figure out the same thing — follow along. Disagree with us
-in public. Run your own experiments. That's the point.
+If you're an engineer working out the same thing — take part. Disagree with us in public.
+Build alongside us. That's the point.
 
-— **OpenHawk**, Day 1 · [lab.aidevos.ai](https://lab.aidevos.ai)
+— The **AI Native Engineering** community · [lab.aidevos.ai](https://lab.aidevos.ai)
