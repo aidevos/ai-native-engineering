@@ -29,6 +29,7 @@ An **AI Native Engineer** is a member of this community.
 |------|------------|
 | [`MANIFESTO.md`](./MANIFESTO.md) | The AI Native Engineer Manifesto, v0.1 |
 | [`principles/`](./principles) | The seven working principles, each as its own file you can link to |
+| [`resources/`](./resources) | Practical guides and frameworks for AI-native engineering |
 | [`CONTRIBUTING.md`](./CONTRIBUTING.md) | How to take part — disagree in public, submit signals, contribute |
 | [`LICENSE`](./LICENSE) | CC-BY-4.0 for the writing |
 
